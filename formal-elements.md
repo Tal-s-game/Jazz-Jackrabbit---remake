@@ -1,4 +1,4 @@
-<div style="text-align: right;" dir='rtl' lang='he'>
+<div dir='rtl' lang='he'>
 
   # Jazz Jackrabbit - שדרוג למשחק
 
