@@ -81,10 +81,9 @@
   "retro games with upgradeable characters"
 
 ★ **משחקים דומים:**
-     1. **Rayman Legends**
+1. **Rayman Legends**
           - מה שונה במשחק שלנו: לעומת Rayman Legends, Jazz Jackrabbit ישלב אלמנטים של שדרוג דמויות ופלטפורמות פתוחות עם אלמנטים של קרב והרפתקה.
-
-     2. **Super Mario Odyssey**
+2. **Super Mario Odyssey**
           - מה שונה במשחק שלנו: השחקן לא רק יוצא להרפתקאות, אלא גם יוכל לשדרג את הדמות, להתמודד עם אויבים חדשים, ולפתור חידות בסגנון משחק מודרני ומאתגר.
 
 ### ייחודיות המשחק
