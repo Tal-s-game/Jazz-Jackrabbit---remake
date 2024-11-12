@@ -12,6 +12,8 @@ The **Jazz Jackrabbit** game is a classic 90s platformer where the player contro
 - **Upgradeable Characters**: Players can improve their character’s stats and abilities as they progress.
 - **Boss Battles**: Epic showdowns at the end of each world with powerful bosses that require strategy to defeat.
 
+### Formal Elements document
+https://github.com/Tal-s-game/Jazz-Jackrabbit---remake/blob/main/formal-elements.md
 ## Getting Started
 
 ### Prerequisites
